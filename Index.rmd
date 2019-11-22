@@ -1,5 +1,5 @@
 ---
-title: "First R website"
+title: "First website"
 author: "kaiding"
 date: "2019/11/22"
 output: html_document
