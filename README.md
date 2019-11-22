@@ -11,3 +11,4 @@ I prefer R!!!
 I prefer kimchi stew!!!!
 
 How to solve merging conflicts?
+How to solve merging conflicts?
