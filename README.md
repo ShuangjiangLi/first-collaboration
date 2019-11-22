@@ -8,3 +8,5 @@ I really like python better
 I prefer R!!!
 
 I prefer kimchi stew!!!!
+
+How to solve merging conflicts?
